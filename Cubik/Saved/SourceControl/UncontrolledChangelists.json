@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UEProjects/Cubik/Content/Blueprints/BP_Player.uasset",
+				"D:/UEProjects/Cubik/Content/MainLevel.umap",
+				"D:/UEProjects/Cubik/Content/PhysicsMaterials/PM_Floor.uasset",
+				"D:/UEProjects/Cubik/Content/GameModes/GMB_MainLevel.uasset",
+				"D:/UEProjects/Cubik/Content/Materials/M_Floor.uasset",
+				"D:/UEProjects/Cubik/Content/Input/IA_InputAction.uasset",
+				"D:/UEProjects/Cubik/Content/Input/IMC_PlayerInput.uasset",
+				"D:/UEProjects/Cubik/Content/Materials/photo_2025-02-27_12-33-51.uasset",
+				"D:/UEProjects/Cubik/Content/Blueprints/BP_Obstacle.uasset",
+				"D:/UEProjects/Cubik/Content/UI/WP_ScoreWidget.uasset",
+				"D:/UEProjects/Cubik/Content/Blueprints/BP_ScoreSystem.uasset",
+				"D:/UEProjects/Cubik/Content/Boot.umap",
+				"D:/UEProjects/Cubik/Content/Level1.umap",
+				"D:/UEProjects/Cubik/Content/Level2.umap",
+				"D:/UEProjects/Cubik/Content/Level3.umap",
+				"D:/UEProjects/Cubik/Content/UI/WP_MenuWidget.uasset",
+				"D:/UEProjects/Cubik/Content/Blueprints/BP_Menu.uasset",
+				"D:/UEProjects/Cubik/Content/GameModes/GMB_Boot.uasset",
+				"D:/UEProjects/Cubik/Content/Blueprints/BP_PlayerController.uasset",
+				"D:/UEProjects/Cubik/Content/Materials/Win1.uasset",
+				"D:/UEProjects/Cubik/Content/Blueprints/BP_Win.uasset",
+				"D:/UEProjects/Cubik/Content/Materials/Win2.uasset",
+				"D:/UEProjects/Cubik/Content/Materials/Win3.uasset",
+				"D:/UEProjects/Cubik/Content/Blueprints/BP_Win1.uasset",
+				"D:/UEProjects/Cubik/Content/Blueprints/BP_Win2.uasset",
+				"D:/UEProjects/Cubik/Content/Materials/NotWin.uasset",
+				"D:/UEProjects/Cubik/Content/Blueprints/BP_NotWin.uasset",
+				"D:/UEProjects/Cubik/Content/UI/WP_MenuWidget1.uasset",
+				"D:/UEProjects/Cubik/Content/UI/Widget.uasset"
+			]
+		}
+	]
+}
